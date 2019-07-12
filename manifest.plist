@@ -27,7 +27,7 @@
 				</dict>
 			</array>
 			<key>metadata</key>
-			<dict>
+			<dict> 
 				<key>bundle-identifier</key>
 				<string>com.watchdata.RIGBOX</string>
 				<key>bundle-version</key>
