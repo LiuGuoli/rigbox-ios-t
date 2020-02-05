@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://test.rigsec.com:6880/app/ipa/1.1.0/RIGBOX.ipa</string>
+					<string>http://test.rigsec.com:6880/app/ipa/1.1.5/RIGBOX.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.watchdata.RIGBOX</string>
+				<string>com.BeijingRigsec.RIGBOX</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.1.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
